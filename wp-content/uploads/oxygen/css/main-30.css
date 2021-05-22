@@ -1,0 +1,66 @@
+#section-1-30 > .ct-section-inner-wrap {max-width: 100%;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;}
+#main > .ct-section-inner-wrap {max-width: 100%;display: flex;}
+#main {width: 100%;height: auto;min-height: 100%;text-align: left;}
+#section-18-30 > .ct-section-inner-wrap {max-width: 100%;}
+#section-18-30 {background-color: #fcbf33;}
+#main-navigation {align-items: center;width: 100%;flex-direction: row;display: flex;justify-content: center;text-align: center;}
+#div_block-20-30 {align-items: center;text-align: center;justify-content: center;width: 20%;}
+#div_block-21-30 {width: 50%;}
+#div_block-40-30 {width: 50%;}
+#div_block-41-30 {width: 50%;}
+#div_block-22-30 {width: 30%;}
+@media (max-width:479px) {#div_block-40-30 {padding-bottom: 0px;padding-top: 0px;padding-left: 0px;padding-right: 0px;}}
+@media (max-width:479px) {#div_block-41-30 {padding-bottom: 0px;padding-top: 0px;padding-left: 0px;padding-right: 0px;}}
+@media (max-width:991px) {#new_columns-19-30> .ct-div-block {width: 100% !important;}}
+@media (max-width:991px) {#new_columns-19-30> .ct-div-block {width: 100% !important;}}
+@media (max-width:991px) {#new_columns-39-30> .ct-div-block {width: 100% !important;}}
+@media (max-width:991px) {#new_columns-39-30> .ct-div-block {width: 100% !important;}}
+#headline-31-30 {margin-top: 0px;}
+#image-17-30 {float: left;width: 180px;}
+#image-23-30 {width: 80%;}
+#inner_content-14-30 {width: 100%;height: auto;min-height: 100%;}
+@media (max-width:1120px) {#_nav_menu-8-30 .oxy-nav-menu-list {display: none;}
+	#_nav_menu-8-30 .oxy-menu-toggle {display: initial;}
+	#_nav_menu-8-30.oxy-nav-menu.oxy-nav-menu-open .oxy-nav-menu-list {display: initial;}}
+#_nav_menu-8-30.oxy-nav-menu.oxy-nav-menu-open {margin-top: 0 !important;margin-right: 0 !important;margin-left: 0 !important;margin-bottom: 0 !important;}
+#_nav_menu-8-30.oxy-nav-menu.oxy-nav-menu-open .menu-item a {padding-top: 20px;padding-bottom: 20px;padding-left: 20px;padding-right: 20px;}
+#_nav_menu-8-30 .oxy-nav-menu-hamburger-wrap {width: 40px;height: 40px;margin-top: 10px;margin-bottom: 10px;}
+#_nav_menu-8-30 .oxy-nav-menu-hamburger {width: 40px;height: 32px;}
+#_nav_menu-8-30 .oxy-nav-menu-hamburger-line {height: 6px;}
+#_nav_menu-8-30.oxy-nav-menu-open .oxy-nav-menu-hamburger .oxy-nav-menu-hamburger-line:first-child {top: 13px;}
+#_nav_menu-8-30.oxy-nav-menu-open .oxy-nav-menu-hamburger .oxy-nav-menu-hamburger-line:last-child {top: -13px;}
+#_nav_menu-8-30 {float: right;width: 90%;display: flex;align-items: flex-end;justify-content: flex-end;}
+#_nav_menu-8-30 .menu-item a {padding-top: 20px;padding-left: 20px;padding-right: 20px;padding-bottom: 20px;}
+#_nav_menu-8-30.oxy-nav-menu:not(.oxy-nav-menu-open) .sub-menu {background-color: #eee;}
+#_nav_menu-8-30.oxy-nav-menu:not(.oxy-nav-menu-open) .sub-menu .menu-item a {border: 0;padding-top: 20px;padding-bottom: 20px;}
+#_nav_menu-8-30 .menu-item:hover a {background-color: #eee;padding-top: 17px;border-top-width: 3px;}
+#_nav_menu-8-30.oxy-nav-menu:not(.oxy-nav-menu-open) .sub-menu:hover {background-color: #eee;}
+#_nav_menu-8-30.oxy-nav-menu:not(.oxy-nav-menu-open) .sub-menu .menu-item a:hover {border: 0;padding-top: 20px;padding-bottom: 20px;}
+#_nav_menu-46-30.oxy-nav-menu.oxy-nav-menu-open {margin-top: 0 !important;margin-right: 0 !important;margin-left: 0 !important;margin-bottom: 0 !important;}
+#_nav_menu-46-30.oxy-nav-menu.oxy-nav-menu-open .menu-item a {padding-top: 10px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;}
+#_nav_menu-46-30 .oxy-nav-menu-hamburger-wrap {width: 40px;height: 40px;margin-top: 10px;margin-bottom: 10px;}
+#_nav_menu-46-30 .oxy-nav-menu-hamburger {width: 40px;height: 32px;}
+#_nav_menu-46-30 .oxy-nav-menu-hamburger-line {height: 6px;}
+#_nav_menu-46-30.oxy-nav-menu-open .oxy-nav-menu-hamburger .oxy-nav-menu-hamburger-line:first-child {top: 13px;}
+#_nav_menu-46-30.oxy-nav-menu-open .oxy-nav-menu-hamburger .oxy-nav-menu-hamburger-line:last-child {top: -13px;}
+#_nav_menu-46-30 .oxy-nav-menu-list {flex-direction: column;}
+#_nav_menu-46-30 .menu-item a {padding-top: 10px;padding-left: 10px;padding-right: 10px;padding-bottom: 10px;}
+#_nav_menu-46-30.oxy-nav-menu:not(.oxy-nav-menu-open) .sub-menu {background-color: #eee;}
+#_nav_menu-46-30.oxy-nav-menu:not(.oxy-nav-menu-open) .sub-menu .menu-item a {border: 0;padding-left: 10px;padding-right: 10px;}
+#_nav_menu-46-30 .menu-item:hover a {background-color: #eee;padding-left: 7px;border-left-width: 3px;}
+#_nav_menu-46-30.oxy-nav-menu:not(.oxy-nav-menu-open) .sub-menu:hover {background-color: #eee;}
+#_nav_menu-46-30.oxy-nav-menu:not(.oxy-nav-menu-open) .sub-menu .menu-item a:hover {border: 0;padding-left: 10px;padding-right: 10px;}
+#_nav_menu-47-30.oxy-nav-menu.oxy-nav-menu-open {margin-top: 0 !important;margin-right: 0 !important;margin-left: 0 !important;margin-bottom: 0 !important;}
+#_nav_menu-47-30.oxy-nav-menu.oxy-nav-menu-open .menu-item a {padding-top: 10px;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;}
+#_nav_menu-47-30 .oxy-nav-menu-hamburger-wrap {width: 40px;height: 40px;margin-top: 10px;margin-bottom: 10px;}
+#_nav_menu-47-30 .oxy-nav-menu-hamburger {width: 40px;height: 32px;}
+#_nav_menu-47-30 .oxy-nav-menu-hamburger-line {height: 6px;}
+#_nav_menu-47-30.oxy-nav-menu-open .oxy-nav-menu-hamburger .oxy-nav-menu-hamburger-line:first-child {top: 13px;}
+#_nav_menu-47-30.oxy-nav-menu-open .oxy-nav-menu-hamburger .oxy-nav-menu-hamburger-line:last-child {top: -13px;}
+#_nav_menu-47-30 .oxy-nav-menu-list {flex-direction: column;}
+#_nav_menu-47-30 .menu-item a {padding-top: 10px;padding-left: 10px;padding-right: 10px;padding-bottom: 10px;}
+#_nav_menu-47-30.oxy-nav-menu:not(.oxy-nav-menu-open) .sub-menu {background-color: #eee;}
+#_nav_menu-47-30.oxy-nav-menu:not(.oxy-nav-menu-open) .sub-menu .menu-item a {border: 0;padding-left: 10px;padding-right: 10px;}
+#_nav_menu-47-30 .menu-item:hover a {background-color: #eee;padding-left: 7px;border-left-width: 3px;}
+#_nav_menu-47-30.oxy-nav-menu:not(.oxy-nav-menu-open) .sub-menu:hover {background-color: #eee;}
+#_nav_menu-47-30.oxy-nav-menu:not(.oxy-nav-menu-open) .sub-menu .menu-item a:hover {border: 0;padding-left: 10px;padding-right: 10px;}
