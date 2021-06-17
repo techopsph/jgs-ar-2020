@@ -1,0 +1,25 @@
+#div_block-1609-13 {justify-items: stretch;align-items: stretch;grid-template-columns: repeat(6,minmax(200px,1fr));grid-column-gap: 0px;grid-row-gap: 0px;display: grid;text-align: left;}
+#div_block-1626-13 {align-items: flex-start;text-align: left;}
+#div_block-1669-13 {align-items: flex-start;text-align: left;}
+#div_block-1105-13 {display: flex;flex-direction: row;justify-content: flex-end;text-align: right;}
+#div_block-1672-13 {align-items: flex-start;text-align: left;}
+#div_block-1111-13 {flex-direction: row;display: flex;width: 100%;max-width: 100%;}
+#div_block-1679-13 {align-items: flex-start;}
+#div_block-1683-13 {align-items: flex-start;text-align: left;}
+#div_block-1092-13 {background-color: #277ecc;height: auto;width: 200%;padding-bottom: 4em;flex-direction: column;display: flex;text-align: left;justify-content: flex-start;align-items: flex-start;padding-left: 1em;padding-top: 1em;padding-right: 4em;position: relative;margin-left: 0px;margin-top: auto;}
+#div_block-1629-13 {align-items: flex-start;text-align: left;}
+@media (max-width:991px) {#div_block-1609-13 {align-items: stretch;grid-template-columns: repeat(1,minmax(200px,1fr));grid-column-gap: 0px;grid-row-gap: 0px;display: grid;}}
+@media (max-width:991px) {#div_block-1092-13 {position: static;width: 100%;}}
+@media (max-width:479px) {#div_block-1105-13 {flex-direction: column;display: flex;align-items: center;text-align: center;}}
+#headline-1690-13 {color: #fff;background-color: #277ecc;border-radius: 5px;padding-bottom: 5px;padding-top: 2px;padding-left: 5px;padding-right: 5px;}
+#text_block-1699-13 {margin-top: 1em;margin-bottom: 1em;}
+#text_block-1701-13 {margin-top: 1em;margin-bottom: 1em;}
+#text_block-1120-13 {font-weight: 900;margin-top: 1em;}
+#image-1106-13 {height: auto;margin-right: 1em;width: 40%;}
+#image-1107-13 {width: 80%;}
+#image-1112-13 {width: 46%;}
+#image-1114-13 {width: 50%;}
+#image-1093-13 {width: 100%;}
+@media (max-width:991px) {#image-1106-13 {width: 25%;}}
+@media (max-width:991px) {#image-1107-13 {width: 50%;}}
+@media (max-width:991px) {#image-1093-13 {padding-bottom: 2em;width: 100%;padding-top: 2em;padding-left: 2em;padding-right: 2em;}}
