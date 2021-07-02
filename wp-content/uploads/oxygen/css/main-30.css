@@ -128,6 +128,7 @@
 #-pro-menu-56-30 .oxy-pro-menu-show-dropdown .oxy-pro-menu-list .menu-item-has-children > a div {margin-left: 6px;}
 #-pro-menu-56-30 .oxy-pro-menu-container:not(.oxy-pro-menu-open-container):not(.oxy-pro-menu-off-canvas-container) .sub-menu .menu-item a {background-color: #e6e6e6;color: #0067bd;padding-bottom: 12px;padding-top: 12px;padding-left: 12px;padding-right: 12px;}
 #-pro-menu-56-30 .oxy-pro-menu-container:not(.oxy-pro-menu-open-container):not(.oxy-pro-menu-off-canvas-container) .sub-menu .menu-item a:hover {background-color: #0067bd;color: #fcbf33;}
+#-pro-menu-56-30 .oxy-pro-menu-off-canvas-container, #-pro-menu-56-30 .oxy-pro-menu-open-container {background-color: #fff;}
 #-pro-menu-56-30 .oxy-pro-menu-container:not(.oxy-pro-menu-open-container):not(.oxy-pro-menu-off-canvas-container) .oxy-pro-menu-list {flex-direction: row;}
 #-pro-menu-56-30 .oxy-pro-menu-container .menu-item a {text-align: left;justify-content: flex-start;}
 #-pro-menu-56-30 .oxy-pro-menu-container.oxy-pro-menu-open-container .menu-item, #-pro-menu-56-30 .oxy-pro-menu-container.oxy-pro-menu-off-canvas-container .menu-item {align-items: flex-start;}

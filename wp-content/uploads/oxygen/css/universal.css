@@ -29,9 +29,6 @@
 .ct-span {display: inline-block;text-decoration: inherit;}
 .ct-widget {width: 100%;}
 .oxy-dynamic-list {width: 100%;}
-@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {.ct-div-block, .oxy-post-content, .ct-text-block, .ct-headline, .oxy-rich-text, .ct-link-text {max-width: 100%;}
-	img {flex-shrink: 0;}
-	body * {min-height: 1px;}}
 .oxy-testimonial {flex-direction: row;align-items: center;}
 .oxy-testimonial .oxy-testimonial-photo-wrap {order: 1;}
 .oxy-testimonial .oxy-testimonial-photo {width: 125px;height: 125px;margin-right: 20px;}
@@ -401,7 +398,7 @@ a:hover {text-decoration: none;}
 @media (max-width: 991px) {.core-investments-desc {height: auto;}}
 .core-investments-bottom-link {padding-top: 0px;padding-bottom: 20px;margin-top: auto;}
 .footer-download-links:hover {background-color: #0067bd;border-left-color: #fcbf33;border-left-width: 2px;border-left-style: solid;}
-.footer-download-links {padding-bottom: 8px;padding-top: 8px;padding-left: 8px;padding-right: 8px;color: #fcbf33;}
+.footer-download-links {padding-bottom: 8px;padding-top: 8px;padding-left: 8px;padding-right: 8px;color: #fcbf33;text-align: left;}
 .table-of-contents-main {font-family: "abril-display";font-weight: 900;margin-bottom: 0px;}
 .table-of-contents-sub {font-family: "abril-display";font-weight: 500;margin-left: 25px;}
 .table-of-contents-group {margin-top: 12px;margin-bottom: 12px;margin-left: 12px;margin-right: 12px;}
@@ -590,6 +587,9 @@ a:hover {text-decoration: none;}
 .contact-info-links {font-weight: 600;}
 html, body {overflow-x: hidden;counter-reset: corpgov-list-counter aod-list-counter esg-performance-list-counter;}
 @media (max-width: 1920px) {html, body {font-size: 1vw;}}
+ul.sub-menu li.current-menu-item a {background-color: #b0b0b0 !important;}
+ul.sub-menu li:not(.current-menu-item) a {background-color: #e6e6e6 !important;}
+.oxy-pro-menu .oxy-pro-menu-mobile-close-icon {top: 20px;right: 20px;left: unset;}
 @media (min-width: 1921px) {html, body {font-size: 16px;}}
 @media (min-width:1121px) {.page-cover .inner-container .default-bg-dark-blue {min-height: 65vh;}}
 @media (min-width:992px) and (max-width:1120px) {.page-cover .inner-container .default-bg-dark-blue {min-height: 65vh;}}
