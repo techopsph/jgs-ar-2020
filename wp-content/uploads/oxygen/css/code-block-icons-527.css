@@ -1,0 +1,42 @@
+#div_block-558-11 {display: flex;width: 100%;padding-left: 1em;padding-top: 2em;padding-right: 1em;padding-bottom: 1em;flex-direction: row;}
+#div_block-564-11 {width: 100%;}
+#div_block-706-11 {align-items: flex-start;text-align: left;}
+#div_block-701-11 {flex-grow: 1;}
+#div_block-707-11 {width: 100%;}
+#div_block-708-11 {align-items: flex-start;text-align: left;justify-content: center;}
+#div_block-710-11 {flex-grow: 1;justify-content: center;}
+#div_block-713-11 {width: 100%;}
+#div_block-714-11 {align-items: flex-start;text-align: left;justify-content: center;}
+#div_block-716-11 {flex-grow: 1;}
+#div_block-730-11 {width: 100%;}
+#div_block-731-11 {align-items: flex-start;text-align: left;justify-content: flex-start;}
+#div_block-733-11 {flex-grow: 1;justify-content: center;}
+#div_block-777-11 {width: 100%;}
+#div_block-778-11 {align-items: flex-start;text-align: left;justify-content: flex-start;}
+#div_block-780-11 {flex-grow: 1;justify-content: center;}
+#div_block-742-11 {width: 100%;}
+#div_block-745-11 {flex-grow: 1;}
+#div_block-753-11 {width: 100%;}
+#div_block-756-11 {flex-grow: 1;}
+#div_block-783-11 {width: 100%;}
+#div_block-786-11 {flex-grow: 1;}
+#div_block-789-11 {width: 100%;}
+#div_block-792-11 {flex-grow: 1;}
+@media (max-width:991px) {#div_block-558-11 {align-items: stretch;grid-template-columns: repeat(2,minmax(200px,1fr));grid-column-gap: 20px;grid-row-gap: 20px;display: grid;}}
+@media (max-width:767px) {#div_block-558-11 {padding-left: 0px;padding-right: 0px;}}
+@media (max-width:479px) {#div_block-558-11 {align-items: stretch;grid-template-columns: repeat(1,minmax(200px,1fr));grid-column-gap: 20px;grid-row-gap: 20px;display: grid;padding-left: 0px;padding-right: 0px;}}
+#headline-702-11 {font-family: "acumin-pro";}
+#headline-717-11 {font-family: "acumin-pro";}
+#headline-746-11 {font-family: "acumin-pro";}
+#headline-757-11 {font-family: "acumin-pro";}
+#headline-787-11 {font-family: "acumin-pro";}
+#headline-793-11 {font-family: "acumin-pro";}
+#text_block-704-11 {font-family: "acumin-pro";}
+#text_block-712-11 {font-family: "acumin-pro";}
+#text_block-718-11 {font-family: "acumin-pro";}
+#text_block-734-11 {font-family: "acumin-pro";}
+#text_block-781-11 {font-family: "acumin-pro";}
+#text_block-747-11 {font-family: "acumin-pro";}
+#text_block-758-11 {font-family: "acumin-pro";}
+#text_block-788-11 {font-family: "acumin-pro";}
+#text_block-794-11 {font-family: "acumin-pro";}

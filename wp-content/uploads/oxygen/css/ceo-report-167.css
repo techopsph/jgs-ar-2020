@@ -23,9 +23,14 @@
 #div_block-549-167 {display: flex;text-align: left;margin-bottom: 1.5em;flex-direction: column;}
 #div_block-643-167 {flex-direction: column;display: flex;text-align: left;}
 #div_block-651-167 {display: flex;flex-direction: row;width: 100%;}
+#div_block-750-167 {width: 20%;}
+#div_block-654-167 {display: flex;}
 #div_block-659-167 {display: flex;flex-direction: row;width: 100%;}
+#div_block-755-167 {width: 20%;}
 #div_block-665-167 {display: flex;flex-direction: row;width: 100%;}
+#div_block-766-167 {width: 20%;}
 #div_block-671-167 {display: flex;flex-direction: row;width: 100%;}
+#div_block-769-167 {width: 20%;}
 #div_block-333-10 {width: 40%;padding-left: 4em;padding-top: 4em;padding-right: 4em;padding-bottom: 4em;background-color: #1b3244;flex-grow: 1;margin-bottom: 0px;}
 #div_block-490-167 {width: 100%;flex-direction: column;display: flex;text-align: left;}
 #div_block-550-167 {}
@@ -75,6 +80,7 @@
 #image-525-167 {width: 100%;}
 #image-531-167 {width: 100%;}
 #image-537-167 {width: 100%;}
+#image-770-167 {max-width: 30px;}
 #span-727-167 {color: #0067bd;font-weight: 600;}
 #span-729-167 {color: #0067bd;font-weight: 600;}
 #span-731-167 {color: #0067bd;font-weight: 600;}
